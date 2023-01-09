@@ -1,0 +1,8 @@
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.csproj.SuggestedBindingRedirects.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\Olio-ohjelmointi.exe.config
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\Olio-ohjelmointi.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\Olio-ohjelmointi.pdb
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.pdb
