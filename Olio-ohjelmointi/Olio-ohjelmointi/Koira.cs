@@ -13,7 +13,7 @@ namespace Olio_ohjelmointi
         public int Ikä;
 
         // Constructori jolla pakotetaan olion luonti tilanteessa
-        // Antamaan tarvittavat tiedot oliolle ( nimi ro,u ja ikä)
+        // Antamaan tarvittavat tiedot oliolle ( nimi rotu ja ikä)
         public Koira(string nimi, string rotu, int ikä)
         {
             Nimi = nimi;
