@@ -1,0 +1,8 @@
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\obj\Debug\Harjoitus7.csproj.AssemblyReference.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\obj\Debug\Harjoitus7.csproj.SuggestedBindingRedirects.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\obj\Debug\Harjoitus7.csproj.CoreCompileInputs.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\bin\Debug\Harjoitus7.exe.config
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\bin\Debug\Harjoitus7.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\bin\Debug\Harjoitus7.pdb
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\obj\Debug\Harjoitus7.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus7\obj\Debug\Harjoitus7.pdb
