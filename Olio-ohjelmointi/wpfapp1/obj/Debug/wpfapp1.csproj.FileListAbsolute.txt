@@ -1,0 +1,16 @@
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\bin\Debug\wpfapp1.exe.config
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\bin\Debug\wpfapp1.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\bin\Debug\wpfapp1.pdb
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.csproj.AssemblyReference.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\MainWindow.g.cs
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\App.g.cs
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1_MarkupCompile.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1_MarkupCompile.lref
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\MainWindow.baml
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.g.resources
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.Properties.Resources.resources
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.csproj.GenerateResource.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.csproj.CoreCompileInputs.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\wpfapp1\obj\Debug\wpfapp1.pdb
