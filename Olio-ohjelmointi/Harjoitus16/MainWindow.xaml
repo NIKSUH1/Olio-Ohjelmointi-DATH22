@@ -1,0 +1,16 @@
+﻿<Window x:Class="Harjoitus16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="input_pituus" HorizontalAlignment="Left" Margin="316,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="211" Height="34" PreviewTextInput="input_Muutettava_PreviewTextInput"/>
+        <Button x:Name="btn_Kilometreiksi" Content="Kilometreiksi" HorizontalAlignment="Left" Margin="316,229,0,0" VerticalAlignment="Top" Height="37" Width="84" Click="btn_Kilometreiksi_Click"/>
+        <Button x:Name="btn_Maileiksi" Content="Maileiksi" HorizontalAlignment="Left" Margin="443,229,0,0" VerticalAlignment="Top" Height="37" Width="84" Click="btn_Maileiksi_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="322,105,0,0" TextWrapping="Wrap" Text="Anna maili tai kilometri muutettavaksi" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
