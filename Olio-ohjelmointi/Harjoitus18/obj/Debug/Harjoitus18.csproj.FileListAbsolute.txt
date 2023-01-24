@@ -1,0 +1,16 @@
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\bin\Debug\Harjoitus18.exe.config
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\bin\Debug\Harjoitus18.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\bin\Debug\Harjoitus18.pdb
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.csproj.AssemblyReference.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.csproj.SuggestedBindingRedirects.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\MainWindow.g.cs
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\App.g.cs
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18_MarkupCompile.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18_MarkupCompile.lref
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\MainWindow.baml
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.g.resources
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.Properties.Resources.resources
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.csproj.GenerateResource.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.csproj.CoreCompileInputs.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Harjoitus18\obj\Debug\Harjoitus18.pdb
