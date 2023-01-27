@@ -1,0 +1,16 @@
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\bin\Debug\WPF-Lopputyö.exe.config
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\bin\Debug\WPF-Lopputyö.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\bin\Debug\WPF-Lopputyö.pdb
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö.csproj.AssemblyReference.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö.csproj.SuggestedBindingRedirects.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\MainWindow.g.cs
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\App.g.cs
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö_MarkupCompile.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö_MarkupCompile.lref
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\MainWindow.baml
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö.g.resources
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF_Lopputyö.Properties.Resources.resources
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö.csproj.GenerateResource.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö.csproj.CoreCompileInputs.cache
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö.exe
+C:\Users\niko.holmi\source\repos\NIKSUH1\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\WPF-Lopputyö\obj\Debug\WPF-Lopputyö.pdb
